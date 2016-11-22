@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_5UEYobD6EeaTK8pprgPhrw" label="BBVersionedProject" description="" language="java" technicalLabel="BBVERSIONEDPROJECT" creationDate="2016-11-22T15:08:04.000-0600" author="_5UE_sLD6EeaTK8pprgPhrw" productVersion="Talend Data Fabric-6.2.1.20160916_1003_patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Redhab/BBVersionedProject.git&quot;,&quot;login&quot;:&quot;Redhab&quot;,&quot;passwd&quot;:&quot;MpJhK5SooRt5grBrndAcfA==&quot;,&quot;settings&quot;:&quot;111&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_5UE_sLD6EeaTK8pprgPhrw" login="rboukefoussa@talend.com" firstName="Redha" lastName="Boukefoussa" type="DI" additionnalData="{}"/>
+</xmi:XMI>
